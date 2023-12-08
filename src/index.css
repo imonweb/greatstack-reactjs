@@ -1,27 +1,5 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 body {
-  font-family: "Poppins";
-  background-color: #444;
-  color: #eee;
+  background: #29313F;
+  font-family: "Poppins", sans-serif;
 }
 
-.wrapper {
-  margin: 20px;
-}
-
-button {
-  padding: 10px;
-}
-
-input {
-  padding: 10px;
-  border-radius: 2px;
-  outline: none;
-  border: none;
-  margin-right: 5px;
-}
